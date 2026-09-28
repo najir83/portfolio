@@ -10,22 +10,22 @@ const projects = [
     title: "HR FAQ & Policy Assistant",
     description: "Engineered a high-precision RAG pipeline (Gemini 3.6 Flash) with Hybrid Search (RRF). Built AST document parsers preserving context/tables and enforced a 4-layer anti-hallucination architecture.",
     tech: ["Node.js", "Express", "Qdrant DB", "Gemini API", "RAG"],
-    github: "https://github.com/najir83/hr-faq-policy-assistant",
-    live: "#"
+    github: "https://github.com/najir83/Internal-HR-FAQ-Policy-Assistant/tree/main",
+    live: "https://github.com/najir83/Internal-HR-FAQ-Policy-Assistant/blob/main/DESIGN.md"
   },
   {
     title: "Full-Stack AI ChatBot",
     description: "Built context-aware assistant with real-time data retrieval and streaming. Implemented usage quota system (200 req/month) and secure authentication.",
     tech: ["Next.js", "Gemini API", "MongoDB", "Tailwind CSS"],
-    github: "https://github.com/najir83/ai-chatbot",
-    live: "#"
+    github: "https://github.com/najir83/ChatMe",
+    live: "https://chatme-kappa.vercel.app/"
   },
   {
     title: "Full Stack Blogging App",
     description: "Developed a comprehensive blogging platform with secure auth (JWT/HTTP-only cookies), full CRUD capabilities, TinyMCE editor integration, and Cloudinary image uploads.",
     tech: ["Express.js", "React", "MongoDB", "Node.js"],
-    github: "https://github.com/najir83/blogging-app",
-    live: "#"
+    github: "https://github.com/najir83/Blog-App",
+    live: "https://blog-app-two-lime-47.vercel.app/"
   }
 ];
 
