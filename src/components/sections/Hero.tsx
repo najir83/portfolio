@@ -141,9 +141,9 @@ export default function Hero() {
               <div className="absolute -inset-2 bg-gradient-to-tr from-accent via-cyan-500 to-emerald-400 rounded-3xl blur-lg opacity-40 hover:opacity-75 transition duration-500" />
 
               {/* Main Image Container */}
-              <div className="relative w-full h-full rounded-3xl overflow-hidden border-2 border-border bg-card shadow-2xl">
+              <div className="relative w-full h-full rounded-3xl overflow-hidden border-2 border-border/80 bg-card shadow-2xl">
                 <Image
-                  src="/profile.jpg"
+                  src="/profile-najir.jpg"
                   alt="Sk Najir"
                   fill
                   priority
